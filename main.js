@@ -296,12 +296,9 @@ console.log(contains('o', strings));
 // teachers who teach the specified subject.
 // write your code here:
 function teachersOf(teaches, instructors) {
-  for ( teaches in instructors ) {
-    if 
-  }
+
 }
 // write your console.log/asserts here:
-
 
 // ---------------------
 // Write a function called `objectMatches` that takes 2 strings and an array of
